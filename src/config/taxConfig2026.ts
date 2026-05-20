@@ -17,5 +17,9 @@ export const TAX_CONFIG_2026 = {
       health: 0.14,
       rental: 0.085
     }
+  },
+  zus: {
+    monthlySocial: 1600,
+    monthlyHealth: 700
   }
 } as const;
